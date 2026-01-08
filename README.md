@@ -46,7 +46,3 @@ After completing this level, I advanced to **Level 3 – Algorithms & Problem So
 ---
 
 ## 📬 Connect
-- **GitHub:** [AhmedYaser-Mt](https://github.com/AhmedYaser-Mt)
-- **LinkedIn:** [Ahmed Yasser](https://www.linkedin.com/in/ahmed-yaser-mt)
-
-
